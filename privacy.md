@@ -83,13 +83,3 @@ data is collected.
 
 Questions: **gauravchoukse22@gmail.com**
 
----
-
-## Notes for submission (not part of the public policy)
-
-- App Store Connect → App Privacy answer: **Data Not Collected**. No App Tracking Transparency
-  prompt (the app tracks nothing).
-- App Review requires two URLs: a **Privacy Policy URL** and a **Support URL**. This file can be
-  published as the privacy policy (e.g., GitHub Pages / a simple hosted page); a one-line
-  support page with the contact email satisfies the support URL.
-- App Review notes: the app needs **no login** and is fully functional offline.
