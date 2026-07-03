@@ -1,6 +1,6 @@
 # Backstory — Privacy Policy
 
-_Effective date: 2026-06-22_
+_Effective date: 2026-07-03_
 
 **Backstory does not collect any of your data.**
 
@@ -20,6 +20,12 @@ except in ways you explicitly choose:
   are included in your device's standard **Apple iCloud** or **Google** device backup if you
   have that enabled. That data is held by Apple/Google under your own account, governed by
   their privacy policies — not by us.
+- **iCloud backup (opt‑in, in the app):** If you tap _Back up now_ under iCloud backup, the app
+  writes an **encrypted** copy of your memories to **your own iCloud** (Apple's iCloud Drive,
+  in a private app container). The backup is encrypted on your device with a key stored in your
+  device's secure keychain before it is written, so it is unreadable by anyone — including us
+  and Apple. We never receive it and have no access to it. You choose when to back up and when
+  to restore; nothing is sent automatically.
 - **Sharing a memory:** If you use the system share sheet to send a photo or memory, it goes
   wherever you send it, via your phone's standard sharing — we are not involved.
 
